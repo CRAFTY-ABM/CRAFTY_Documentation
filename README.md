@@ -1,10 +1,7 @@
-# CRAFTY_Documentation
-The elaborated documentation imported from the previous Confluence wiki (https://www.wiki.ed.ac.uk/display/CRAFTY)
-
 Welcome to the documentation for the CRAFTY agent-based modelling (ABM)
-framework. Here you can find instructions for installing and using
+framework. In the [wiki](../wiki), you can find instructions for installing and using
 CRAFTY, descriptions and details of the framework, and example
-applications.
+applications. 
 
 CRAFTY is a large-scale ABM of land use change. It has been designed to
 allow efficient but powerful simulation of a wide range of land uses and
@@ -61,3 +58,5 @@ JavaDoc and the wiki usually relate to the CRAFTY_Social version. The section 'S
 # Related Software
 
 There is an R packages craftyr https://bitbucket.org/geoslurg/craftyr to support generation of batch runs and do post-processing. See the post processing page https://www.wiki.ed.ac.uk/display/CRAFTY/Post-Processing for installation instructions.
+
+The elaborated documentation imported from the previous Confluence wiki (https://www.wiki.ed.ac.uk/display/CRAFTY)

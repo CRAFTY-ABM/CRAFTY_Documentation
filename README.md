@@ -1,5 +1,5 @@
 Welcome to the documentation for the CRAFTY agent-based modelling (ABM)
-framework. In the [wiki](../wiki), you can find instructions for installing and using
+framework. In the [wiki](https://github.com/CRAFTY-ABM/CRAFTY_Documentation/wiki), you can find instructions for installing and using
 CRAFTY, descriptions and details of the framework, and example
 applications. 
 

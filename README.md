@@ -11,16 +11,15 @@ available [here](attachments/189500917/314017260.docx).
 
 -   At first, you might want to get to know CRAFTY\'s [Features and
     [Model
-    Structure]{.confluence-link}](Features-and-Model-Structure_189500914.html)[.]{.confluence-link}
+    Structure](Features-and-Model-Structure_189500914.html).
 -   [It is then a good idea to choose the CRAFTY version you like to
     apply. Whereas the main documentation is tailored to basic CRAFTY,
     the other versions are described in section [Special Versions
     Documentation](https://www.wiki.ed.ac.uk/display/CRAFTY/Special+Versions+Documentation).
     The subpages contain lists of particular versions\' features, but
     you may see
-    [here](http://crafty-abm.sourceforge.net/){.external-link} for an
-    overview.\
-    ]{.confluence-link}
+    [here](http://crafty-abm.sourceforge.net/) for an
+    overview.
 -   Then, go ahead [getting started with
     CRAFTY,](Getting-Started_189500941.html) including hints for getting
     help.
